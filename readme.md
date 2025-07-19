@@ -114,7 +114,7 @@ jupyter notebook TelecomX_BR.ipynb
 
 - Ausência de Serviços Adicionais: Clientes que não contratam serviços de valor agregado (ex: Segurança Online, Suporte Técnico) tendem a cancelar mais.
 
-## 📈 Recomendações
+## 📈 Futura Análise e Melhoria
 Com base nos insights, as seguintes recomendações são sugeridas para a TelecomX:
 
 Campanhas de Migração de Contrato: Incentivar clientes de planos mensais a migrarem para contratos de maior duração (1 ou 2 anos) com ofertas atrativas.
