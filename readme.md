@@ -126,6 +126,3 @@ Campanhas de Migração de Contrato: Incentivar clientes de planos mensais a mig
 3. Revisão do Método de Pagamento "Cheque Eletrônico": Investigar as causas da alta taxa de Churn associada a este método e buscar soluções ou incentivar a migração para métodos mais estáveis (débito automático, cartão de crédito).
 
 4. Atenção e Adaptação para o Público Idoso: Avaliar a usabilidade dos serviços e a qualidade do suporte técnico para esse segmento, buscando canais de comunicação simplificados e atendimento mais paciente.
-
-## 🤝 Contribuições
-Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou encontrar algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
