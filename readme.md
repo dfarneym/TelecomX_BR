@@ -55,7 +55,7 @@ jupyter notebook TelecomX_BR.ipynb
 3. Execute as Células:
 - Dentro do navegador, o ambiente Jupyter será aberto. Execute as células do notebook sequencialmente. O notebook está estruturado para guiar você através das etapas de:
 
-- Limpeza e Tratamento de Dados: Carregamento do TelecomX_data_tratados.json, tratamento de valores ausentes e transformação da variável alvo (Cancelou).
+- Limpeza e Tratamento de Dados: Carregamento do TelecomX_Data.json, tratamento de valores ausentes e transformação da variável alvo (Cancelou).
 
 - Análise Exploratória de Dados: Geração e interpretação de gráficos sobre a influência do tipo de contrato, meses de permanência, cobrança mensal e método de pagamento no Churn.
 
