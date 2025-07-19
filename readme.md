@@ -61,7 +61,45 @@ jupyter notebook TelecomX_BR.ipynb
 
 - Conclusões e Recomendações: Resumo dos insights obtidos e sugestões de ações estratégicas.
 
-## 💡 Insights e Conclusões Principais
+### 📊Gráficos e Insights
+
+* **Gráfico 1 - Distribuição Geral de Cancelamentos**: Vemos que a base de dados é desbalanceada. Cerca de 26,6% dos clientes cancelaram, enquanto 73,4% permaneceram. Isso nos mostra que a maioria dos clientes é leal, mas há uma parcela significativa que precisa de atenção:
+
+![Distribuição Geral de Cancelamentos](Gráficos/Distribuição%20Geral%20de%20Cancelamentos.png)
+
+* **Gráfico 2 - Proporção de Cancelamento por Tipo de Contrato**:
+
+![Distribuição Geral de Cancelamentos](Gráficos/Proporção%20de%20Cancelamento%20por%20Tipo%20de%20Contrato.png)
+
+- Contrato Mensal: A barra vermelha (Cancelou = Sim) é enorme, mostrando que mais de 42% dos clientes com este tipo de contrato cancelam o serviço.
+- Contrato de Um Ano: A taxa de cancelamento cai drasticamente, ficando em torno de 11%.
+- Contrato de Dois Anos: É o mais seguro para a empresa, com uma taxa de cancelamento baixíssima, de apenas ~3%.
+
+
+* **Gráfico 3 - Proporção de Cancelamento por Tipo de Contrato**:
+
+![Relação entre Cobrança Mensal e Cancelamento](Gráficos/Relação%20entre%20Cobrança%20Mensal%20e%20Cancelamento.png)
+
+- Cobrança Mensal (Gráfico 3): O boxplot mostra claramente que os clientes que cancelam (Sim) tendem a ter uma cobrança mensal mediana mais alta (cerca de R$80) em comparação com os que não cancelam (mediana em torno de R$65). Clientes com cobranças muito baixas (abaixo de R$30) raramente cancelam.
+
+* **Gráfico 4 - Relação entre Meses de Permanência e Cancelamento**:
+
+![Relação entre Meses de Permanência e Cancelamento](Gráficos/Relação%20entre%20Meses%20de%20Permanência%20e%20Cancelamento.png)
+
+- Meses de Permanência (Gráfico 4): O histograma revela outro padrão crucial. A maioria dos cancelamentos ocorre nos primeiros meses do serviço. Clientes que superam a marca de um ano tendem a se tornar muito mais leais. A lealdade aumenta com o tempo de permanência.
+
+* **Gráfico 5 -  Proporção de Cancelamento por Fatores Demográficos**:
+![ Proporção de Cancelamento por Fatores Demográficos ](Gráficos/Proporção%20de%20Cancelamento%20por%20Fatores%20Demográficos.png)
+
+- Gênero: A taxa de cancelamento é praticamente idêntica para os gêneros Feminino (26,9%) e Masculino (26,2%). Isso nos mostra que o gênero não é um fator relevante para prever o cancelamento.
+
+- Cliente Idoso: Aqui a diferença é gritante. Clientes idosos (Sim) cancelam numa proporção muito maior (41,7%) do que os clientes não idosos (Não), que têm uma taxa de apenas 23,6%. Ser idoso é um forte indicador de risco de cancelamento.
+
+- Possui Cônjuge: Clientes sem cônjuge (Não) têm uma taxa de cancelamento maior (33,0%) em comparação com aqueles que possuem um parceiro (Sim), cuja taxa é de 19,7%.
+
+- Possui Dependentes: O padrão é semelhante ao do cônjuge. Clientes sem dependentes (Não) cancelam muito mais (31,3%) do que aqueles que possuem dependentes (Sim), que têm uma taxa de apenas 15,5%.
+
+# 💡 Insights e Conclusões Principais
 - A análise revelou um perfil claro do cliente com alto risco de Churn:
 
 - Contrato Mensal: Clientes com esse tipo de contrato apresentam as maiores taxas de cancelamento.
