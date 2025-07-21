@@ -11,6 +11,8 @@ Este repositório contém uma análise exploratória de dados (EDA) focada na id
 
 O problema do Churn é crítico para empresas de serviços por assinatura, impactando diretamente a receita recorrente, os custos de aquisição de novos clientes e a reputação da marca. Esta análise busca mitigar esses riscos através de um entendimento aprofundado dos padrões de evasão.
 
+O projeto foi desenvolvido como parte de um curso de Data Visualization da Alura em parceria com a Oracle Next Education.
+
 ## 🚀 Como Executar o Projeto
 
 Para replicar a análise e os gráficos gerados neste projeto, siga os passos abaixo:
@@ -45,7 +47,7 @@ TelecomX_BR/
 ```
 ## Passos para Execução
 1. Clone o Repositório: 
-- git clone [https://github.com/SeuUsuario/TelecomX_BR.git](https://github.com/SeuUsuario/TelecomX_BR.git)
+- git clone [https://github.com/dfarneym/TelecomX_BR.git](https://github.com/dfarneym/TelecomX_BR.git)
 - cd TelecomX_BR
 
 2. Abra o Notebook Jupyter:
