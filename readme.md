@@ -11,7 +11,7 @@ Este repositório contém uma análise exploratória de dados (EDA) focada na id
 
 O problema do Churn é crítico para empresas de serviços por assinatura, impactando diretamente a receita recorrente, os custos de aquisição de novos clientes e a reputação da marca. Esta análise busca mitigar esses riscos através de um entendimento aprofundado dos padrões de evasão.
 
-O projeto foi desenvolvido como parte de um curso de Data Visualization da Alura em parceria com a Oracle Next Education.
+O projeto foi desenvolvido como parte de um curso de Challenge Telecom X: Análise de Evasão de Clientes da Alura em parceria com a Oracle Next Education.
 
 ## 🚀 Como Executar o Projeto
 
